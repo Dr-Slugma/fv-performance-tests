@@ -28,6 +28,6 @@ Fetches a static resource (logo-fpcc-white.png).
 Should be able to handle a standard test load (100 users over 10 seconds) with all responses under 1200 ms and without dropping a single response.
 
 ### WordPhraseSearchTest
-Loads the Word page and Phrase page for Dene and searches for 'den'.
+Loads the Word page and Phrase page for Dene and searches for 'den' (chosen for its publci availability).
 
 Should be able to handle a reduced test load (30 users over 10 seconds) without dropping a single response.
