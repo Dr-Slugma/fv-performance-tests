@@ -48,6 +48,6 @@ Loads the word list from the Dene dialect (chosen for its public availabilty).
 Should be able to handle a significantly reduced test load (20 users over 10 seconds) without dropping a single response.
 
 ### WordPhraseSearchTest
-Loads the Word page and Phrase page for Dene and searches for 'den'.
+Loads the Word page and Phrase page for Dene and searches for 'den' (chosen for its publci availability).
 
 Should be able to handle a reduced test load (30 users over 10 seconds) without dropping a single response.
